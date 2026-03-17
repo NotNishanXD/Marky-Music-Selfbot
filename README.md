@@ -1,6 +1,6 @@
 # Marky Music Selfbot
 
-A JavaScript-based Discord self-bot designed for streaming high-quality music from YouTube, Spotify, and multiple other platforms.  
+A JavaScript-based Discord selfbot designed for streaming high-quality music from YouTube, Spotify, and multiple other platforms.  
 Optimized for speed, stability, and smooth performance.
 
 ## Disclaimer
