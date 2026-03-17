@@ -91,4 +91,4 @@ Feel free to open a pull request or participate in discussions on the Discord se
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=asnehitadas-71/Music-selfbot-Discord&type=date&legend=top-left)](https://www.star-history.com/#asnehitadas-71/Music-selfbot-Discord&type=date&legend=top-left)
+[![Star History Chart](https://api.star-history.com/svg?repos=NotNishanXD/Marky-Music-Selfbot&type=date&legend=top-left)](https://www.star-history.com/#NotNishanXD/Marky-Music-Selfbot&type=date&legend=top-left)
